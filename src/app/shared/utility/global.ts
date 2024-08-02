@@ -1,8 +1,8 @@
 export class Global {
     // For Production
-    public static BASE_API_PATH = "http://sahosoftweb.com/api/";
-    public static BASE_IMAGES_PATH = "http://sahosoftweb.com/images/";
-    public static BASE_USERS_IMAGES_PATH = "http://sahosoftweb.com/users/";
+    public static BASE_API_PATH = "https://sahosoftweb.com/api/";
+    public static BASE_IMAGES_PATH = "https://sahosoftweb.com/images/";
+    public static BASE_USERS_IMAGES_PATH = "https://sahosoftweb.com/users/";
 
 
     // For Development
